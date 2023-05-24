@@ -20,7 +20,10 @@
 
 # PayPal-Ebook-React-Sample
 
-An Example React App for Selling an E-Book Online
+An Example React App for Selling an E-Book Online as demonstrated in the PayPal Developer youtube video, [How to Add PayPal Checkout to a React App](https://youtu.be/AGDaLOawJSc).
+
+![screenshot of the React App](https://github.com/paypaldev/PayPal-Ebook-React-Sample/assets/3941856/e04f7e86-3d1b-4153-8f90-b96dddfdf5b3)
+
 
 ## Setup
 
