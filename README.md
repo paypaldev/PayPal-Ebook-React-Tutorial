@@ -18,7 +18,7 @@
   <hr />
 </div>
 
-# PayPal-Ebook-React-Sample
+# PayPal Ebook React Tutorial
 
 An Example React App for Selling an E-Book Online as demonstrated in the PayPal Developer youtube video, [How to Add PayPal Checkout to a React App](https://youtu.be/AGDaLOawJSc).
 
